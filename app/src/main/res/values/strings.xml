@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="text_view">GeeksForGeeks</string>
+    <string-array name="angle_list">
+        <item>Degree</item>
+        <item>Radian</item>
+    </string-array>
+    <string-array name="area_list">
+        <item>Sq kilometre</item>
+        <item>Hectare</item>
+        <item>Sq metre</item>
+        <item>Sq centimetre</item>
+        <item>Sq mile</item>
+        <item>Acre</item>
+        <item>Sq yard</item>
+        <item>Sq foot</item>
+        <item>Sq inch</item>
+    </string-array>
+    <string-array name="digital_list">
+        <item>Bit</item>
+        <item>Nibble</item>
+        <item>Byte</item>
+        <item>Kilobyte</item>
+        <item>Megabyte</item>
+        <item>Gigabyte</item>
+        <item>Terabyte</item>
+    </string-array>
+    <string-array name="length_list">
+        <item>Kilometre</item>
+        <item>Dekametre</item>
+        <item>Metre</item>
+        <item>Centimetre</item>
+        <item>Decimetre</item>
+        <item>Milimetre</item>
+        <item>Hectometre</item>
+        <item>Micron</item>
+        <item>Mile</item>
+        <item>Yard</item>
+        <item>Foot</item>
+        <item>Inch</item>
+        <item>Nautical miles</item>
+        <item>Light year</item>
+    </string-array>
+    <string-array name="mass_list">
+        <item>Kilogram</item>
+        <item>Gram</item>
+        <item>Decigram</item>
+        <item>Milligram</item>
+        <item>Metric ton</item>
+        <item>Pound</item>
+        <item>Ounce</item>
+        <item>Hectogram</item>
+        <item>Decagram</item>
+    </string-array>
+    <string-array name="speed_list">
+        <item>Mile/hour</item>
+        <item>Km/h</item>
+        <item>Foot/sec</item>
+        <item>M/s</item>
+        <item>Knot</item>
+    </string-array>
+    <string-array name="temperature_list">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+    <string-array name="volume_list">
+        <item>Gallon</item>
+        <item>Pint</item>
+        <item>Millilitre</item>
+        <item>Decilitre</item>
+        <item>Litre</item>
+        <item>Kilolitre</item>
+        <item>Hectolitre</item>
+        <item>Cubic cm</item>
+        <item>Cubic m</item>
+        <item>Cubic km</item>
+        <item>Cubic inch</item>
+        <item>Cubic yard</item>
+        <item>Cubic mile</item>
+    </string-array>
+</resources>
